@@ -318,7 +318,7 @@ form {
     color: var(--dark-grey);
 }
 
-@media (max-width: 860px) {
+@media (max-width: 760px) {
     form {
         margin: 0;
         box-shadow: none;
